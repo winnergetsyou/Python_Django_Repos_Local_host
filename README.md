@@ -18,4 +18,4 @@ created my first host_local django project
 
 HTML - CSS codes executed in the Django Project 
 
-![See_the_image.jpg for image](image.jpg)
+![See_the_image.jpg for image](image.png)
